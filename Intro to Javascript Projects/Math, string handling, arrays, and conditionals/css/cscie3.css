@@ -1,0 +1,44 @@
+
+
+#studentname{
+	border:1px solid darkgray;
+	padding:.7em;
+	background-color: gray;
+	width:20%;
+}
+
+.namedata{
+	color: maroon;
+	font-weight:bold;
+}
+
+.degoutput{
+	width:4em;
+	border: 1px solid gray;
+	padding: 1px;
+}
+
+#graph{
+	width:620px;
+	height:620px;
+	border:1px solid black;
+}
+#marker{
+	position:relative;
+}
+body {
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 14px;
+	line-height: 1.428571429;
+	color: #333;
+}
+.container {
+	width: 80%;
+	margin: auto;
+}
+
+h4 {
+	border-top: 1px solid black;
+	padding-top: 1em;
+	width: 95%;
+}
